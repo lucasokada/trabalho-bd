@@ -1,0 +1,22 @@
+INSERT INTO CorretoraImoveis.Negociantes(cpf, profissao, preferencias)
+VALUES 
+("99316419832", "medico", "1 quarto"),
+("87528604852", "medico", "2 quartos"),
+("51647360803", "medico", "3 quartos"),
+("19077109811", "advogado", "4 quartos"),
+("97810942816", "advogado", "5 quartos"),
+( "46148419882", "medico", "6 quartos"),
+("82732271896", "advogado", "7 quartos"),
+("64026698815", "medico", "8 quartos"),
+("81933874228", "advogado", "1 banheiro"),
+("92536772870", "medico", "1banheiro"),
+("42742606157", "advogado", "1 banheiro"),
+("98757910677", "professor", "1 banheiro"),
+("68350737301", "professor", "2 banheiros"),
+("82174379392", "professor", "3 banheiros"),
+( "86533283782", "professor", "4 banheiros"),
+("40831642203", "autonomo", "5 banheiros"),
+("24082566660", "autonomo", "6 banheiros"),
+("44566734196", "autonomo", "7 banheiros"),
+("06217194201", "autonomo", "8 banheiros"),
+("86559362000", "autonomo", "9 banheiros");
